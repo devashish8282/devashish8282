@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+💫 About Me:<br>👋 Hello, I'm Devashish Patil!<br><br>🌱 AI Enthusiast | Frontend Developer | Problem Solver<br>💼 Work Experience: Extern @ National Research Group<br>📍 Exploring: Generative AI Applications, Full-Stack Development, and Blockchain Integration<br><br>🚀 About Me<br>I’m a passionate developer dedicated to creating innovative solutions in web development and artificial intelligence. With expertise in Python, React, MySQL, HTML, and CSS, I thrive on solving complex challenges and contributing to impactful projects.<br><br>From building AI-powered investment assistants to designing efficient doctor appointment platforms, I aim to craft solutions that merge technology and real-world needs. Recently, I’ve explored NVIDIA TensorRT and Triton Inference Server to optimize large-scale AI deployments, ensuring high performance and reliability.<br><br>🏆 Projects<br><br>Doctor Appointment Web App<br>Built a MERN-based application enabling seamless appointment booking, improving accessibility for rural communities.<br><br>Enhanced workflows for doctors and patients alike.<br>FinAgent<br>Designed an AI-powered investment assistant leveraging FinBERT and GPT-3.5.<br><br>Delivered personalized financial insights and accurate stock predictions.<br>GenAI-Accelerator<br>Optimized Generative AI models using NVIDIA Inference Microservices (NIM) and TensorRT.<br><br>Ensured scalable and efficient AI operations.<br>🎖 Hackathons & Achievements<br><br>🌟 Grand Finalist: ATMECS Global GEN AI Hackathon (Top 12/4,900 Teams)<br>🏅 Grand Finalist: Rakathon 2024 by Rakuten India (Top 100/8,900 Teams)<br>🏆 Internal Round Qualifier: Smart India Hackathon 2024 (Top 60/400 Teams)<br>💼 Experience Highlights<br><br>National Research Group | Extern<br>Analyzed organizational data to enhance AI risk management and compliance strategies.<br><br>Oasis Infobyte | Web Developer Intern<br>Improved web app interfaces with a focus on interactive and user-friendly designs.<br><br>🎓 Education<br><br>B.Tech in Computer Science & Engineering<br>VIT Bhopal | CGPA: 7.8/10<br>📖 Publication<br><br>Sentinels of Privacy: Mastering Data Breach Detection and Response in Healthcare Ecosystems<br>🌟 Hobbies:<br>Swimming | Hackathons | Community Management | Trekking<br><br>🔗 Let’s Connect!<br>Check out my GitHub for more exciting projects or connect on LinkedIn. Always eager to collaborate and share ideas!
 
-<!--
-**devashish8282/devashish8282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deva_8282) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devashish-patil) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devashish8282&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devashish8282&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devashish8282&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devashish8282&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=devashish8282&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
